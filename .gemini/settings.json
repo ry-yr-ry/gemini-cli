@@ -13,3 +13,13 @@
     "devtools": true
   }
 }
+{
+  "mcpServers": {
+    "mf-kaikei": {
+      "httpUrl": "https://beta.mcp.developers.biz.moneyforward.com/mcp/ca/v3",
+      "oauth": { "enabled": true },
+      "includeTools": ["（/mcpで確認した、試算表・帳簿検索などの参照系ツール名のみ）"],
+      "trust": true
+    }
+  }
+}
